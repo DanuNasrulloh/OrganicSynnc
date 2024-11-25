@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrganiSync</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="organisync">OrganiSync</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="create_event">Create Event</string>
+</resources>
